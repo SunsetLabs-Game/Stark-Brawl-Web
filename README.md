@@ -1,4 +1,5 @@
 # 🌟 Stark Brawl Web – The Ultimate Web3 Battle Arena
+![image](https://github.com/user-attachments/assets/a5bb7214-8f7e-4380-bb19-bbb1a83b9759)
 
 **Stark Brawl** is a **fast-paced, browser-based multiplayer shooter** powered by **React, WebGL, and Starknet**.  
 This repository contains the **frontend code**, enabling players to **connect their wallets, battle in real-time, and interact with the Web3 economy**.
